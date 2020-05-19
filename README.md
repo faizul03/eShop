@@ -1,0 +1,2 @@
+# eShop
+python with django 
